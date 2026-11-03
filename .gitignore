@@ -1,0 +1,40 @@
+# Never commit submission packages or journal-facing material
+JEI_DELIVERY*/
+01_Upload_Files/
+02_System_Fields/
+03_Editable_Project/
+04_Source_Archives_If_Requested/
+*.zip
+Cover_Letter*
+Previous_Rejection*
+
+# Data and large artefacts
+data/
+datasets/
+outputs/
+runs/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Build products
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

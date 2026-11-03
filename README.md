@@ -1,4 +1,4 @@
-# sewer-degradation-recognition
+# sewer-ml-degradation-robustness
 
 Code and configurations for the manuscript **"Multi-label sewer defect recognition under
 controlled image degradation: recovery and error trade-offs"**, submitted to
